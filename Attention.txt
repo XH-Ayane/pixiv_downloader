@@ -1,0 +1,2 @@
+注意事项：想要执行该程式请进入到dist文件夹内执行pixiv_downloader.exe
+Attention: To execute this program, please go to the dist folder and run pixiv-downloader.exe
